@@ -2,7 +2,7 @@
 
 - 👋 Hi everyone! I’m @bokitoboki, an aspiring Data Scientist from Singapore.
 - 👀 I’m interested in Data Science and Analytics.
-- 🌱 I’m currently learning python programming.
+- 🌱 I’m currently learning Python programming.
 
 
 <!---
